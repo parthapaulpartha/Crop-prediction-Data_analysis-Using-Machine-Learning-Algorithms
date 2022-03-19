@@ -1,1 +1,1 @@
-# Crop_prediction_Data_analysis_Using_Machine_Learning_Algorithms
+# Crop_recommendation_Data_analysis_Using_Machine_Learning_Algorithms
